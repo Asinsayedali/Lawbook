@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+langchain
+langchain-community  
+open-text-embeddings 
+ollama 
+prompt-template 
+langchain 
+langchain_experimental 
+sentence-transformers 
+faiss-cpu
+pypdf
